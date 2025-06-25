@@ -292,7 +292,7 @@ function setupBackgroundAudio(content) {
     audio.id = "bg-audio";
     audio.src = audioSrc;
     audio.loop = true;
-    audio.volume = 0.03;
+    audio.volume = 0.08;
     audio.muted = false; // Ensure not muted
     audio.playsInline = true; // For mobile compatibility
 
@@ -301,7 +301,7 @@ function setupBackgroundAudio(content) {
     document.body.appendChild(audio);
     // Ensure volume is set after play starts (for some browsers)
     audio.addEventListener("play", () => {
-      audio.volume = 0.3;
+      audio.volume = 0.08;
     });
     // Try to play (handle browser restrictions)
     setTimeout(() => {
@@ -310,7 +310,7 @@ function setupBackgroundAudio(content) {
       }
     }, 500);
   } else {
-    audio.volume = 0.3; // Reset volume
+    audio.volume = 0.08; // Reset volume
     audio.loop = true; // Ensure loop is set
     audio.autoplay = true; // Ensure autoplay is set
     audio.src = audioSrc;
