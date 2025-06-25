@@ -20,13 +20,13 @@
     "type": "video",
     "src": "./Forza Horizon 4 OP drift.mp4",
     "alt": "A fun birthday video",
-    "caption": "Birthday celebration!"
+    "caption": "Captured Memories!"
   },
   {
     "type": "image",
     "src": "./images2.png",
     "alt": "Another great memory",
-    "caption": "Unforgettable moment.",
+    "caption": "Unforgettable moments!",
     "burst": [
       "./images1/memesSTXT (1).png",
       "./images1/memesSTXT (2).png",
