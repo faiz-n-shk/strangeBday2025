@@ -1,0 +1,41 @@
+[
+  {
+    "type": "image",
+    "src": "./images1.png",
+    "alt": "A special memory photo",
+    "caption": "A wonderful day!",
+    "burst": [
+      "./images2/gamingSTXT (1).jpeg",
+      "./images2/gamingSTXT (2).jpeg",
+      "./images2/gamingSTXT (3).jpeg",
+      "./images2/gamingSTXT (4).jpeg",
+      "./images2/gamingSTXT (5).jpeg",
+      "./images2/gamingSTXT (6).jpeg",
+      "./images2/gamingSTXT (7).png",
+      "./images2/gamingSTXT (8).png",
+      "./images2/StrangeNitroPFP.gif"
+    ]
+  },
+  {
+    "type": "video",
+    "src": "./Forza Horizon 4 OP drift.mp4",
+    "alt": "A fun birthday video",
+    "caption": "Birthday celebration!"
+  },
+  {
+    "type": "image",
+    "src": "./images2.png",
+    "alt": "Another great memory",
+    "caption": "Unforgettable moment.",
+    "burst": [
+      "./images1/memesSTXT (1).png",
+      "./images1/memesSTXT (2).png",
+      "./images1/memesSTXT (3).png",
+      "./images1/memesSTXT (4).png",
+      "./images1/memesSTXT (5).png",
+      "./images1/memesSTXT (6).png",
+      "./images1/memesSTXT (7).png",
+      "./images1/memesSTXT (8).png"
+    ]
+  }
+]
